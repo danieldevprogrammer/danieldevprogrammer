@@ -45,6 +45,8 @@
 
 ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=danieldevprogrammer&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danieldevprogrammer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
 ### Entre em contato comigo! 📭
 
 <div>
