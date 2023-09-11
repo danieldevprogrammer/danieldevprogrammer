@@ -49,9 +49,14 @@
 
 ### Entre em contato comigo! 📭
 
-<div>
-  <a href="https://www.linkedin.com/in/daniel-vitor-3a2618b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:daniel.vitor1@hotmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/new-post.png" alt="E-MAIL"></a>
+<div style="display: flex; align-items: center;">
+   <a href="https://www.linkedin.com/in/daniel-vitor-3a2618b6/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:daniel.vitor1@hotmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/E-MAIL-%230077B5?style=for-the-badge&logo=email&logoColor=white" alt="E-MAIL" style="vertical-align: middle;">
+  </a>
+ 
 </div>
 <!-- Esse template foi feito por <a href="https://cubos.academy/" target="_blank">Cubos Academy!</a> ✨ -->
 
