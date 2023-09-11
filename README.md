@@ -6,7 +6,7 @@
 
 🎓 Eu estudo [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) na [Cubos Academy](https://cubos.academy/) e também sou estudante da Faculdade de Ciência e Tecnologia da [UFERSA](https://ufersa.edu.br/).
 
-🔎 Sou curioso sobre tecnologia, desenvolvimento pessoal, psicologia, esportes e artes marciais.
+🔎 Sou curioso sobre tecnologia, desenvolvimento pessoal, psicologia, esportes e artes marciais em geral.
 
 ✒️ No meu tempo livre, gosto de ler sobre diversos temas, praticar atividades físicas e passar tempo com minha família.
 
